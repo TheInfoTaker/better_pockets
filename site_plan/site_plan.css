@@ -209,3 +209,8 @@ nav a:hover {
   width: 80%;
   height: auto;
 }
+
+.wireframe_1, .wireframe_2, .wireframe_3, .wireframe_4 {
+  width: 50%;
+  height: auto;
+}
