@@ -108,7 +108,7 @@ footer {
   grid-column: 1;
   grid-row: 2;
   text-align: center;
-  padding: 0% 20% 0% 20%;
+  padding: 0% 18% 0% 18%;
   margin-bottom: 0px;
 }
 
@@ -399,4 +399,12 @@ footer {
   margin-right: 150px;
   text-align: center;
   font-family: 'Noto Sans';
+}
+
+.nav_tag:hover, .shop_info:hover  {
+  filter: brightness(20%);
+}
+
+.get_started:hover, .learn_more:hover, .shop_button:hover {
+  filter: brightness(85%);
 }
